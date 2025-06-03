@@ -26,8 +26,8 @@
 ---
 
 ### 📌 Featured Projects
-- 💼 **Portfolio Website** – Personal portfolio showcasing my skills & projects [→ View Project](https://sakshirastogiwork.github.io)
-- 🛍️ **E-commerce UI** – Responsive clothing store prototype built in React [→ GitHub Repo](https://github.com/sakshirastogiwork)
+- 💼 **Portfolio Website** – Personal portfolio showcasing my skills & projects 
+- 🛍️ **E-commerce UI** – Responsive clothing store prototype built in React 
 - 🧘‍♀️ **Cherry Community** – Self-growth platform for challenges and learning [→ In Progress]
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Sakshi Rastogi) email
+[LinkedIn](https://www.linkedin.com/in/sakshi-r-900a44236/) email
 
 💻 Tech Stack:
 C HTML5 Java JavaScript Python AWS Anaconda FastAPI NodeJS OpenCV React MicrosoftSQLServer MySQL Adobe Adobe Lightroom Canva Figma Matplotlib NumPy Pandas Plotly PyTorch scikit-learn TensorFlow Scipy Portfolio Notion Airbnb CMake Cisco Docker Power Bi nVIDIA
@@ -54,15 +54,15 @@ C HTML5 Java JavaScript Python AWS Anaconda FastAPI NodeJS OpenCV React Microsof
 
 ✍️ Random Dev Quote
 
+![](https://github-profile-trophy.vercel.app/?username=@sakshirastogiwork&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=@sakshirastogiwork&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
 
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
