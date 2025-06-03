@@ -8,10 +8,9 @@
 - 👯 I’m looking to collaborate on web development and design-led projects.
 - 🤔 I’m looking for help with performance optimization in React-based apps.
 - 💬 Ask me about frontend, Canva/Figma design, or growing on YouTube!
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshirastogiwork) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshirastogiwork@gmail.com)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-r-900a44236/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshirastogiwork@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I run a lifestyle YouTube channel called *Cheryl* and lead a self-growth community called *Cherry*!
-- 🎥 YouTube: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXX?style=social)](https://www.youtube.com/@IamCherryOfficial)
 
 ---
 
