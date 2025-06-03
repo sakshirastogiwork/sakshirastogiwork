@@ -1,59 +1,18 @@
-💫 About Me:
+# 💫 About Me:
+<!--<br>**sakshirastogiwork/sakshirastogiwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>### Hi there, I'm Sakshi Rastogi 👋<br><br>- 🔭 I’m currently working on full-stack freelance projects and technical assistant roles.<br>- 🌱 I’m currently learning advanced JavaScript, APIs, and scalable design systems.<br>- 👯 I’m looking to collaborate on web development and design-led projects.<br>- 🤔 I’m looking for help with performance optimization in React-based apps.<br>- 💬 Ask me about frontend, Canva/Figma design, or growing on YouTube!<br>- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshirastogiwork) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshirastogiwork@gmail.com)<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I run a lifestyle YouTube channel called *Cheryl* and lead a self-growth community called *Cherry*!  <br>- 🎥 YouTube: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXX?style=social)](https://www.youtube.com/@cheryl)<br><br>---<br><br>### 🛠️ Tech Stack<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)<br>![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)<br>![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)<br><br>---<br><br>### 📌 Featured Projects<br>- 💼 **Portfolio Website** – Personal portfolio showcasing my skills & projects [→ View Project](https://sakshirastogiwork.github.io)<br>- 🛍️ **E-commerce UI** – Responsive clothing store prototype built in React [→ GitHub Repo](https://github.com/sakshirastogiwork)<br>- 🧘‍♀️ **Cherry Community** – Self-growth platform for challenges and learning [→ In Progress]<br><br>---<br><br>### 📈 GitHub Stats  <br>![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshirastogiwork&show_icons=true&theme=tokyonight)<br><br>---<br>
 
 
-## Hi there, I'm Sakshi Rastogi 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sakshi Rastogi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshirastogiwork@gmail.com) 
 
-- 🔭 I’m currently working on full-stack freelance projects and technical assistant roles.
-- 🌱 I’m currently learning advanced JavaScript, APIs, and scalable design systems.
-- 👯 I’m looking to collaborate on web development and design-led projects.
-- 🤔 I’m looking for help with performance optimization in React-based apps.
-- 💬 Ask me about frontend, Canva/Figma design, or growing on YouTube!
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-r-900a44236/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshirastogiwork@gmail.com)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I run a lifestyle YouTube channel called *Cheryl* and lead a self-growth community called *Cherry*!
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=@sakshirastogiwork&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=@sakshirastogiwork&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=@sakshirastogiwork&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-### 📌 Featured Projects
-- 💼 **Portfolio Website** – Personal portfolio showcasing my skills & projects 
-- 🛍️ **E-commerce UI** – Responsive clothing store prototype built in React 
-- 🧘‍♀️ **Cherry Community** – Self-growth platform for challenges and learning [→ In Progress]
-
----
-
-### 📈 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshirastogiwork&show_icons=true&theme=tokyonight)
-
----
-🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/sakshi-r-900a44236/) email
-
-💻 Tech Stack:
-C HTML5 Java JavaScript Python AWS Anaconda FastAPI NodeJS OpenCV React MicrosoftSQLServer MySQL Adobe Adobe Lightroom Canva Figma Matplotlib NumPy Pandas Plotly PyTorch scikit-learn TensorFlow Scipy Portfolio Notion Airbnb CMake Cisco Docker Power Bi nVIDIA
-
-📊 GitHub Stats:
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
-
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=@sakshirastogiwork&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -61,8 +20,5 @@ C HTML5 Java JavaScript Python AWS Anaconda FastAPI NodeJS OpenCV React Microsof
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@sakshirastogiwork&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
